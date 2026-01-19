@@ -1,0 +1,22 @@
+pypdf
+tqdm
+tiktoken
+
+fastapi
+uvicorn
+python-dotenv
+
+langchain
+langgraph
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+
+google-generativeai
+protobuf
+typing-extensions
+
+# Database (Supabase/PostgreSQL)
+sqlalchemy>=2.0.0
+psycopg2-binary
+alembic
+supabase>=2.0.0
